@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+}
+#list {
+  padding-left: 100px;
+}
+h3 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+ul {
+  font-size: 20px;
+}
+li {
+  font-style: italic;
+}
